@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+$LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
+require 'gista'
+
+begin
+  authoriser = Gista::TokenRequest.new(Gista::LoginPrompt.new)
+  token      = Gista::UserToken.new(authoriser).token
+  options    = Gista::Options.new(ARGV).options
+  puts Gista.post_and_get_url(token, options)
+rescue StandardError => e
+  abort e.message
+end

@@ -1,0 +1,8 @@
+--no-private
+--title "Gista: create Github gists from the command line"
+--readme README.md
+--markup markdown
+--markup-provider kramdown
+-
+HISTORY.md
+LICENSE
