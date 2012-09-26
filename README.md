@@ -1,4 +1,4 @@
-# Gista -- create gists from the command line [![Build Status](https://secure.travis-ci.org/avdgaag/gista.png?branch=master)](http://travis-ci.org/avdgaag/gista) [![Gemnasium dependency status](https://gemnasium.com/avdgaag/gista.png)](https://gemnasium.com/avdgaag/gista)
+# Gista -- create gists from the command line [![Build Status](https://secure.travis-ci.org/avdgaag/gista.png?branch=master)](http://travis-ci.org/avdgaag/gista)
 
 ## Introduction
 
