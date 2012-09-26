@@ -88,4 +88,4 @@ Created by: Arjan van der Gaag
 URL: [http://arjanvandergaag.nl](http://arjanvandergaag.nl)  
 Project homepage: [http://avdgaag.github.com/gista](http://avdgaag.github.com/gista)  
 Date: april 2012  
-License: [MIT-license](https://github.com/avdgaag/gista/LICENSE) (same as Ruby)
+License: [MIT-license](https://github.com/avdgaag/gista/blob/master/LICENSE) (same as Ruby)
